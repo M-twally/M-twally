@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ahmed</h1>
 <h3 align="center">I'm a student at the faculty of computer and artificial intelligence - at Cairo university.</h3>
 
-- 📫 How to reach me **M.a.metwally01@outlook.com**
+- 📫 How to reach me **M.ametwally15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
